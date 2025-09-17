@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using WebApplication1.Models;
 
-namespace TuProyecto.Models
+namespace WebApplication1.Models
 {
     [Index(nameof(Email), IsUnique = true)]
     public class User

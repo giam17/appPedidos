@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using TuProyecto.Models;
+using WebApplication1.Models;
 
-namespace TuProyecto.Data
+namespace WebApplication1.Data
 {
     public class AppDbContext : DbContext
     {

@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using Microsoft.EntityFrameworkCore;
 
-namespace TuProyecto.Models
+namespace WebApplication1.Models
 {
     public class OrderItem
     {
