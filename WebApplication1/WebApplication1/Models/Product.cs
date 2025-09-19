@@ -19,6 +19,5 @@ namespace WebApplication1.Models
 
         [Range(0, int.MaxValue)]
         public int Stock { get; set; } = 0;
-
     }
 }
