@@ -5,6 +5,7 @@ namespace WebApplication1.Models
 {
     public class Product
     {
+        //validacion
         public int ProductId { get; set; }
 
         [Required, StringLength(120)]
